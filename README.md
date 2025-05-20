@@ -1,2 +1,6 @@
 # Power-Grid-Performance-Analytics
-Analyzed and predicted electrical grid stability using a simulated 4-node DSGC dataset with 10,000 instances. Explored power dynamics, adaptation behaviors, and modeled stability using machine learning. Evaluated models and extracted insights for smart grid optimization.
+Analyzed and predicted electrical grid stability using a simulated 4-node DSGC dataset with 10,000 instances. Explored power dynamics, adaptation behaviors, and modeled stability using machine learning. Evaluated models and extracted insights for smart grid optimization. This project analyzes and predicts the stability of an electrical grid operating under Distributed Smart Grid Control (DSGC) using a simulated dataset. The dataset models a 4-node system comprising one producer and three consumers, featuring 10,000 instances with 12 attributes related to power dynamics, adaptation willingness, and response time.
+
+We performed thorough data preprocessing, including cleaning, feature engineering, and target variable selection. Exploratory Data Analysis (EDA) revealed key patterns and correlations influencing grid stability.
+
+Multiple machine learning models were evaluated to classify and predict stability, with performance assessed through metrics like accuracy, F1-score, and RMSE. Feature importance analysis provided insight into factors most critical to grid performance. The results highlight practical applications for optimizing smart grid reliability and responsiveness.
